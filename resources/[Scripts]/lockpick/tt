@@ -1,0 +1,81 @@
+headlightcolors: table: 08110B90
+aLob\p:year: true
+aLob\p:vDoorType: true
+engine: 0
+show_vin: 1
+aLob\p:respawnposition: true
+aLob\p:registered: true
+aLob\p:engine: true
+aLob\p:faction: true
+aLob\p:description:4: true
+year: 1994
+oldz: 13.382813
+dimension: 0
+aLob\p:fuel: true
+aLob\p:vehicle:windowstat: true
+aLob\p:maximemodel: true
+aLob\p:carshop:cost: true
+Impounded: 0
+oldx: 1058.036621
+aLob\p:plate: true
+aLob\p:owner: true
+handbrake: 0
+aLob\p:chopped: true
+insurance:faction: 0
+aLob\p:owner_last_login: true
+aLob\p:insurance:fee: true
+job: 0
+aLob\p:interior: true
+faction: -1
+aLob\p:dbid: true
+aLob\p:deleted: true
+aLob\p:headlightcolors: true
+aLob\p:dimension: true
+description:4: 
+aLob\p:description:2: true
+description:1: 
+aLob\p:description:3: true
+aLob\p:vehicle_shop_id: true
+aLob\p:textures: true
+maximemodel: 250SX
+owner: 63
+aLob\p:brand: true
+textures: table: 08112030
+aLob\p:Impounded: true
+carshop:cost: 1500
+dbid: 12
+description:2: 
+registered: 1
+plate: BN1 8587
+owner_last_login: 63795594257
+brand: KTM
+vehicle_shop_id: 10
+oldy: -1492.295166
+odometer: 0
+aLob\p:oldz: true
+description:5: 
+lastused: 63795589343
+fuel: 100
+aLob\p:show_vin: true
+aLob\p:enginebroke: true
+enginebroke: 0
+insurance:fee: 0
+aLob\p:description:1: true
+aLob\p:lastused: true
+aLob\p:carshop:taxcost: true
+description:3: 
+aLob\p:odometer: true
+aLob\p:oldy: true
+vehicle:windowstat: 0
+aLob\p:insurance:faction: true
+interior: 0
+aLob\p:oldx: true
+show_plate: 1
+respawnposition: table: 08111BA8
+chopped: 0
+deleted: 0
+carshop:taxcost: 0
+aLob\p:description:5: true
+aLob\p:show_plate: true
+aLob\p:handbrake: true
+aLob\p:job: true

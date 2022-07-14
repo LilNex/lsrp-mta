@@ -1,0 +1,15 @@
+<meta>
+<info author="LilNex" name="Discord webhook messages" />
+<script src="webhookS.lua"/>
+
+<export function="sendLSFDDiscord" type="shared" />
+<export function="sendLSPDDiscord" type="shared" />
+<export function="sendLogsDiscord" type="shared" />
+<export function="sendCraftDiscord" type="shared" />
+<export function="sendItemsDiscord" type="shared" />
+<export function="sendItemsDiscord" type="shared" />
+<export function="getPlayerCount" type="server" http="true" />
+<!-- <min_mta_version client="1.5.4" server="1.5.4-9.03773"/>  -->
+<min_mta_version client="1.5.5" server="1.5.5"/> 
+
+</meta>

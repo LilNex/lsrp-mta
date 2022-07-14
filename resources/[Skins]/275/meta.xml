@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="~redd" type="misc" name="[SPRP]Skin-samu" description="[SPRP]Skin-samu" />
+     <script src="script.lua" type="client" />
+	 <file src="275.txd" />
+     <file src="275.dff" />
+</meta>

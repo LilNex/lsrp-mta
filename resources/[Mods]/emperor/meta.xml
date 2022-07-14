@@ -1,0 +1,6 @@
+<meta>
+	<info author="KARIM"type="script" version="1.0.0" />
+	<script type="client"src="replace.lua" />
+	<file src="585.txd" />
+	<file src="585.dff" />
+</meta>

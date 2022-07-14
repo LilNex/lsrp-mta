@@ -1,0 +1,6 @@
+<meta>
+	<info author="420"type="script" version="1.0.0" />
+	<script type="client"src="replace.lua" />
+	<file src="426.txd" />
+	<file src="426.dff" />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="ParowkaPL12" name="Melee weapons on bikes" description="Hit enemies from bike" type="script" version="1.3.0" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<script src="hk_c.lua" type="client" />
+    <file src="files/hk_taxi.dff" />
+    <file src="files/hk_taxi.col" />
+	<file src="files/hk_taxi.txd" />
+</meta>

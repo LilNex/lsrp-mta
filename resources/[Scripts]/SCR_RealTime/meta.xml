@@ -1,0 +1,8 @@
+<meta>
+    <script src="c_sync.luac" type="client" cache="false" />
+    <script src="s_sync.lua" type="server" />
+    
+    <export function="getTimeZoneMinus" type="shared" />
+    <export function="fetchWeather" type="server" />
+    
+</meta>

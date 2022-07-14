@@ -1,0 +1,17 @@
+<meta>
+	<info author="Xenius" version="0.1" type="script" name="Resource CPU usage" />
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+	
+	<file src="files/taser.txd" />
+    <file src="files/taser.dff" />
+    <file src="files/taser.ogg" />
+    <file src="files/empty.png" />
+    <file src="files/texturechanger.fx" />
+    <file src="files/standing_cuffed_back.ifp" />
+    <file src="files/standing_cuffed.ifp" />
+    <file src="files/walking_cuffed.ifp" />
+    <file src="files/cuff.dff" />
+    <file src="files/cuff.txd" />
+    <file src="files/handcuff.ogg" />
+</meta>

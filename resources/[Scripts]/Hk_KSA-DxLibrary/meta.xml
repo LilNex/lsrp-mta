@@ -1,0 +1,19 @@
+<meta>
+    <info author="HkHaythem" type="script" description="HkDx Library" />
+	
+	<script src="hk_editbox.lua" type="client" cache="false" />	
+    <file src="hk_editbox_files/hk_editbox_bg.png"/>	
+    <file src="hk_editbox_files/hk_user.png"/>
+    <file src="hk_editbox_files/hk_pass.png"/>
+	<file src="hk_editbox_files/hkfont.ttf"/>
+
+	<file src="hk_fonts/hkfontReg.ttf"/>	
+	<file src="hk_fonts/hkfontMed.ttf"/>	
+	
+	
+	<export function="hkCreateEdit" type="client" />
+	<export function="hkSetVisible" type="client" />
+	<export function="hkGetEditText" type="client" />
+	<export function="hkSetEditText" type="client" />
+	<export function="hkSetMasked" type="client" />
+</meta>

@@ -1,0 +1,31 @@
+<meta>
+
+    <script type="client" cache="false" src="client.lua"/>
+    <script type="server" cache="false" src="server.lua"/>
+    <file src="Arquivos/Imagens/cancel.png" />
+	<file src="Arquivos/Imagens/Punheta.png" />
+	<file src="Arquivos/Imagens/Abdominal.png" />
+	<file src="Arquivos/Imagens/MaoNaCabeca.png" /> 
+	<file src="Arquivos/Imagens/DancaFort.png" />
+	<file src="Arquivos/Imagens/Flexao.png" />
+	<file src="Arquivos/Imagens/Mortal.png" />
+	<file src="Arquivos/Imagens/dedo.png" />
+	<file src="Arquivos/Imagens/dance.png" />
+	<file src="Arquivos/Imagens/DancaJapa.png" />
+	<file src="Arquivos/Imagens/mouse.png" />
+	<file src="Arquivos/Sons/click.mp3" />
+	
+	<file src="Ipf/render.ifp" cache = "false" /> 
+	<file src="Ipf/flexao.ifp" cache = "false" />
+	<file src="Ipf/mortal.ifp" cache = "false" />
+	<file src="Ipf/abdominal.ifp" cache = "false" />
+	<file src="Ipf/danca.ifp" cache = "false" />
+	<file src="Ipf/Fortnite pt1.ifp" cache = "false" /> 
+	<file src="Ipf/Fortnite pt2.ifp" cache = "false" />
+	<file src="Ipf/Fortnite pt3.ifp" cache = "false" />
+	
+	
+	
+	<min_mta_version client="1.5.2" server="1.5.2" />
+	
+</meta>

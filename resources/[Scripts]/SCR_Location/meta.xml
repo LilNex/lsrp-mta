@@ -1,0 +1,8 @@
+<meta>
+	
+    <info author="Weedy" version="1" name="Car Rent System" type="script" />
+	
+	<script src="rent_client.lua" type="client"/>
+	<script src="rent.lua"/>
+	
+</meta>

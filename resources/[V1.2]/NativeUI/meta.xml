@@ -1,0 +1,48 @@
+<meta>
+
+  <script src="scriptC.lua" type="client" />
+
+  <script src="inputC.lua" type="client" />
+
+  <file src="fonts/chaletlondon.ttf" />
+  <file src="fonts/signpainter.ttf" />
+
+  <file src="images/menunav.png" />
+  <file src="images/NORMALE.png" />
+
+  <file src="sounds/buttonpressed.mp3" />
+  <file src="sounds/menuback.mp3" />
+  <file src="sounds/menuenter.mp3" />
+  <file src="sounds/menunavigate.mp3" />
+
+  <!-- exports -->
+
+  <export function="CreatePool" type="client" />
+
+   <export function="GetCurrentSelect" type="client" />
+
+   <export function="GetCurrentTab" type="client" />
+
+   <export function="GetMenuID" type="client" />
+   <export function="getWindow" type="client" />
+
+   <export function="GetShowingPools" type="client" />
+
+   <export function="DeleteTab" type="client" />
+   <export function="ChangeTabName" type="client" />
+
+   <export function="DeletePool" type="client" />
+
+   <export function="addTab" type="client" />
+
+   <export function="setVisible" type="client" />
+
+   <export function="ShowInputField" type="client" />
+
+   <export function="HideInputField" type="client" />
+
+   <export function="GetInputFieldText" type="client" />
+   
+
+   
+</meta>

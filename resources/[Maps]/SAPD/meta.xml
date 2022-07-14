@@ -1,0 +1,9 @@
+<meta>
+<info author="ZAW" description="HypixelCommunity" version="1.3" type="script" />
+<include resource="freeroam"/>
+<script src="client.lua" type="client"/>
+<file src="sapd.txd" type="client"/>
+<file src="sapd.dff" type="client"/>
+<file src="sapd.col" type="client"/>
+</meta>
+

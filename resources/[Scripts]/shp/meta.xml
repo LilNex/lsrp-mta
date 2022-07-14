@@ -1,0 +1,5 @@
+<meta>
+  <info author="King588" version="1.1" type="script" description="Smoke Script"/>
+  <script src="taf.lua" type="client"/>
+  <script src="s_taf.lua" type="server"/>
+</meta>

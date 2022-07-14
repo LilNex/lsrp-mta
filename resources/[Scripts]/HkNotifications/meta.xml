@@ -1,0 +1,21 @@
+<meta> 
+	<script src="notificationsS.lua" type="server"/>
+	<script src="notificationsC.lua" type="client"/>
+    <file src="myriadproregular.ttf"/>
+    <file src="types/car.png"/>
+    <file src="types/shop.png"/>
+    <file src="types/info.png"/>
+    <file src="types/warning.png"/>
+    <file src="types/error.png"/>
+    <file src="types/kick.png"/>
+    <file src="types/ban.png"/>
+    <file src="types/duty.png"/>
+    <file src="types/doorclose.png"/>
+    <file src="types/dooropen.png"/>
+    <file src="types/factionduty.png"/>
+    <file src="types/garageclose.png"/>
+    <file src="types/garageopen.png"/>
+    <file src="types/success.mp3"/>
+	<export function="show_box" type="client"/>
+	<export function="show_box" type="server"/>
+</meta>

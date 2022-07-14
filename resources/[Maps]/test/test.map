@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (sunset22_LAwN) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="5896" scale="1" doublesided="false" collisions="true" posX="1103.5" posY="-897" posZ="63.9" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (sunset22_LAwN) (1)" radius="67.182426" interior="0" model="5896" lodModel="5897" posX="1103.5234" posY="-896.92969" posZ="63.89844" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

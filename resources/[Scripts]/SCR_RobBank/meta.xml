@@ -1,0 +1,6 @@
+<meta>
+	<script src="setting.lua" type="server" />
+	<script src="server.lua" type="server" />
+	<map src="map.map" />
+	<script src="client.lua" type="client" />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <info author="Rodrigo" name="Sistema de Maconha - Exclusivo" version="1.0" type="Script" />
+    <script src="sScript.lua" type="server"/>
+    <script src="edit.lua" type="shared" />
+</meta>

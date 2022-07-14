@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (cunt_rockgp2_21) (1)" breakable="true" interior="0" alpha="255" model="18228" doublesided="false" scale="1" dimension="0" posX="1280.5" posY="-1224.2" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (searock04) (1)" breakable="true" interior="0" alpha="255" model="900" doublesided="false" scale="1" dimension="0" posX="1263.5" posY=" -1258.6" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rockbrkq) (1)" breakable="true" interior="0" alpha="255" model="905" doublesided="false" scale="1" dimension="0" posX="1226.9" posY="-1248.3" posZ="18.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rockbrkq) (2)" breakable="true" interior="0" alpha="255" model="905" doublesided="false" scale="1" dimension="0" posX="1226.9" posY="-1245.9" posZ="19.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rockbrkq) (3)" breakable="true" interior="0" alpha="255" model="905" doublesided="false" scale="1" dimension="0" posX="1226.9" posY="-1248.3" posZ="18.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rockbrkq) (4)" breakable="true" interior="0" alpha="255" model="905" doublesided="false" scale="1" dimension="0" posX="1230.2" posY="-1242.9" posZ="19.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (rockbrkq) (5)" breakable="true" interior="0" alpha="255" model="905" doublesided="false" scale="1" dimension="0" posX="1232.5" posY="-1243.2" posZ="18.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gunbox) (3)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2167.3" posY="-238.1" posZ="37.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gunbox) (4)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2167.5" posY="-237.2" posZ="37.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gunbox) (5)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2168.2" posY="-237.3" posZ="35.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gunbox) (6)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2168.2" posY="-237.3" posZ="36.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gunbox) (7)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2167.6" posY="-235.3" posZ="35.9" rotX="0" rotY="0" rotZ="20"></object>
+    <object id="object (gunbox) (8)" breakable="true" interior="0" alpha="255" model="1271" doublesided="false" scale="1" dimension="0" posX="-2168.4" posY="-238.3" posZ="37.1" rotX="0" rotY="0" rotZ="19.995"></object>
+    <ped id="ped (2)" dimension="0" model="16" interior="0" rotZ="184.021" alpha="255" posX="1268.6" posY="-1270.8" posZ="13.5" rotX="0" rotY="0"></ped>
+</map>

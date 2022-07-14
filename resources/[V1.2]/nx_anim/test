@@ -1,0 +1,22 @@
+win: [{
+    "title_image": "NORMALE.PNG",
+    "isVisible": true,
+    "Tabs": [{
+            "1": "button",
+            "2": "Cancel Animation",
+            "4": 1
+        },
+        ["select", "Type", "x", 3, ["Divers", "Police", "Mecano", "Dance"]],
+        ["button", "Anim 1", "a1", 1],
+        ["button", "Anim 2", "a2", 1],
+        ["button", "Anim 3", "a3", 1],
+        ["button", "Anim 4", "a4", 1],
+        ["button", "Anim 5", "a5", 1],
+        ["button", "Anim 6", "a5", 1]
+    ],
+    "title": "Animations",
+    "title_2": "Select an animation",
+    "useBackSpace": true
+}] tab: ["Mecano"]
+
+gsign

@@ -1,0 +1,53 @@
+<meta>
+	<info author="[M]ister - www.mtabrasil.com.br" version="1.0" name="Painel VIP" type="script" />
+	
+	<include resource="bone_attach" />
+	
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" />
+	<script src="config.lua" type="client" cache="false"/>
+	
+	<script src="acoes/acoes_s.lua" type="server"/>
+	<script src="acoes/acoes_c.lua" type="client" cache="false"/>
+	
+	<file src="fonts/oceanicdriftgradital.ttf" />
+	
+	<file src="imagens/gui/transparent.png" />
+	<file src="imagens/gui/close.png" />
+	<file src="imagens/gui/onoff.png" />
+	<file src="imagens/gui/button.png" />
+	<file src="imagens/gui/buttonhover.png" />
+	<file src="imagens/gui/personicon.png" />
+	<file src="imagens/gui/caricon.png" />
+	<file src="imagens/gui/sem_imagem.png" />
+	
+	<file src="imagens/itens/personagem/item10.png" />
+	
+	<script src="addons/mask/mask_s.lua" type="server" />
+	<script src="addons/mask/mask_c.lua" type="client" cache="false" />
+	<export function="removeMask" type="server"/>
+	
+	<file src="addons/mask/icon/cavalo.png" />
+	<file src="addons/mask/icon/gato.png" />
+	<file src="addons/mask/icon/porco.png" />
+	<file src="addons/mask/icon/guaxinim.png" />
+	<file src="addons/mask/icon/mascote.png" />
+	<file src="addons/mask/icon/macaco.png" />
+	<file src="addons/mask/icon/hookey.png" />
+	
+	<file src="addons/mask/models/cavalo.txd" />
+	<file src="addons/mask/models/cavalo.dff" />
+	<file src="addons/mask/models/gato.txd" />
+	<file src="addons/mask/models/gato.dff" />
+	<file src="addons/mask/models/porco.txd" />
+	<file src="addons/mask/models/porco.dff" />
+	<file src="addons/mask/models/guaxinim.txd" />
+	<file src="addons/mask/models/guaxinim.dff" />
+	<file src="addons/mask/models/mascote.txd" />
+	<file src="addons/mask/models/mascote.dff" />
+	<file src="addons/mask/models/macaco.txd" />
+	<file src="addons/mask/models/macaco.dff" />
+	<file src="addons/mask/models/hookey.txd" />
+	<file src="addons/mask/models/hookey.dff" />
+
+</meta>

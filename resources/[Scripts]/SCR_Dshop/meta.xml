@@ -1,0 +1,4 @@
+<meta>
+	<script src="drink_c.lua" type="client" />
+	<script src="drink_s.lua" type="server" />
+</meta>

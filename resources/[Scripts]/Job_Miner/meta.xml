@@ -1,0 +1,5 @@
+<meta>
+	<map src="sfj.map" />
+        <script src="c.lua" type="client" />
+	<script src="s.lua" />
+</meta>

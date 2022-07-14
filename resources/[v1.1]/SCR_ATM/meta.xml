@@ -1,0 +1,4 @@
+<meta>
+	<script src="atm_c.lua" type="client" cache="false"/>
+	<script src="atm_s.lua" type="server" />
+</meta>

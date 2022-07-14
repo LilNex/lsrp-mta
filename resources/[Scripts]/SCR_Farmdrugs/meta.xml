@@ -1,0 +1,8 @@
+<meta>
+	<info author="UndR"type="script" version="1.0.0" />
+	<script type="client"src="client.lua" />
+     <script type="server"src="server.lua" />
+	<file src="large-weed/test.txd" />
+	<file src="large-weed/test.dff" />
+	<file src="font/fontawesome.ttf" />
+</meta>

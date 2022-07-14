@@ -1,0 +1,99 @@
+[{
+        "headlightcolors": [255, 255, 255],
+        "aLob\\p:show_vin": true,
+        "engine": 0,
+        "show_vin": 1,
+        "aLob\\p:respawnposition": true,
+        "aLob\\p:registered": true,
+        "aLob\\p:engine": true,
+        "aLob\\p:faction": true,
+        "aLob\\p:description:4": true,
+        "oldz": 5.429688,
+        "dimension": 0,
+        "tinted": true,
+        "aLob\\p:fuel": true,
+        "aLob\\p:vehicle:windowstat": true,
+        "aLob\\p:tinted": true,
+        "odometer": 524.25462722948,
+        "Impounded": 0,
+        "aLob\\p:vehicle:radio": true,
+        "entrance": true,
+        "aLob\\p:plate": true,
+        "aLob\\p:owner": true,
+        "handbrake": 0,
+        "aLob\\p:chopped": true,
+        "aLob\\p:owner_last_login": true,
+        "aLob\\p:show_plate": true,
+        "job": 0,
+        "aLob\\p:interior": true,
+        "faction": -1,
+        "aLob\\p:dbid": true,
+        "aLob\\p:deleted": true,
+        "aLob\\p:headlightcolors": true,
+        "aLob\\p:dimension": true,
+        "description:4": "",
+        "aLob\\p:description:2": true,
+        "description:1": "",
+        "cooking": true,
+        "aLob\\p:description:3": true,
+        "aLob\\p:vehicle_shop_id": true,
+        "aLob\\p:textures": true,
+        "aLob\\p:Impounded": true,
+        "dbid": 208,
+        "lastused"
+
+
+
+
+        [OOC Chat] Lilo Loox: (bbb)
+        Your element data 'aLob\p:engine'
+        has changed from 'true'
+        to 'false'
+        Your element data 'engine'
+        has changed from '0'
+        to '1'
+        Your element data 'aLob\p:engine'
+        has changed from 'false'
+        to 'true'
+        Your element data 'aLob\p:vehicle:radio'
+        has changed from 'true'
+        to 'false'
+        Your element data 'vehicle:radio'
+        has changed from '0'
+        to 'nil'
+        Your element data 'aLob\p:vehicle:radio'
+        has changed from 'false'
+        to 'true'
+        Your element data 'aLob\p:lastused'
+        has changed from 'true'
+        to 'false'
+        Your element data 'lastused'
+        has changed from '63799541482'
+        to '63799541501'
+        Your element data 'aLob\p:lastused'
+        has changed from 'false'
+        to 'true'
+        Your element data 'seatbeltwarning'
+        has changed from 'nil'
+        to '1' [OOC Chat] Lilo Loox: (bbb)
+        Your element data 'aLob\p:engine'
+        has changed from 'true'
+        to 'false'
+        Your element data 'engine'
+        has changed from '1'
+        to '0'
+        Your element data 'aLob\p:engine'
+        has changed from 'false'
+        to 'true'
+        Your element data 'aLob\p:vehicle:radio'
+        has changed from 'true'
+        to 'false'
+        Your element data 'vehicle:radio'
+        has changed from 'nil'
+        to '0'
+        Your element data 'aLob\p:vehicle:radio'
+        has changed from 'false'
+        to 'true'
+        Your element data 'seatbeltwarning'
+        has changed from '1'
+        to 'nil'

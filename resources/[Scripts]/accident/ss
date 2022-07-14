@@ -1,0 +1,192 @@
+Processing: false
+blindfold: 0
+shop:NoAccess: false
+aLob\p:loggedin: true
+aLob\p:adminreports: true
+aLob\p:faction: true
+realism:smoking: true
+race: 0
+gender: 0
+aLob\p:businessprofit: true
+aLob\p:factionphone: true
+realinvehicle: 1
+aLob\p:donation-system:perks: true
+hud:showingSomeIconsOnTopLeft: 40
+license.pilot: 0
+playerid: 1
+fingerprint: 1185EA45355BA11EBA178F00FCDA2B3D
+serial: 710186679DEF493F126A5FF4036D0902
+aLob\p:race: true
+aLob\p:month: true
+legitnamechange: 0
+month: 7
+languages.lang2: 0
+maxinteriors: 10
+aLob\p:languages.lang1skill: true
+loginattempts: 0
+donation-system:perks: table: 0AA35870
+loggedin: 1
+lockpicked: false
+admin_level: 10
+license.gun2: 0
+hud:whereToDisplayY: 20
+license.gun: 0
+hk_hunger: 78
+aLob\p:admin_level: true
+account:id: 5
+aLob\p:jailreason: true
+license.car: 0
+aLob\p:supporter_level: true
+aLob\p:forcedanimation: true
+hoursplayed: 18
+bgMusic: false
+factionrank: 1
+faction: 2
+aLob\p:dbid: true
+license.bike: 0
+aLob\p:pd.jailtime: true
+aLob\p:license.boat: true
+aLob\p:account:loggedin: true
+lastdeath:  [KILL] Sdadad Dada died
+languages.lang3skill: 0
+languages.lang3: 0
+aLob\p:license.pilot: true
+maxvehicles: 5
+duty_admin: 1
+aLob\p:factionMenu: true
+languages.lang1skill: 100
+languages.current: 1
+day: 16
+weight: 50
+aLob\p:gender: true
+job: 0
+businessprofit: 0
+aLob\p:languages.lang3: true
+languages.lang1: 1
+license.boat: 0
+hk_urination: 44
+hk_thirst: 63
+shotgunmode: 1
+globalooc: 1
+account:characters: table: 0AA35708
+firemode: 0
+aLob\p:jaillink: true
+aLob\p:admin:monitor: true
+vct_level: 0
+height: 160
+aLob\p:weight: true
+factionleader: 0
+aLob\p:account:characters: true
+aLob\p:languages.lang3skill: true
+aLob\p:jailadmin: true
+account:character:id: 6
+aLob\p:jailtime: true
+aLob\p:look: true
+aLob\p:license.gun2: true
+aLob\p:realinvehicle: true
+account:registerdate: 2021-08-12 10:48:09
+aLob\p:muted: true
+email: dadad@gmail.com
+duty_dev: 1
+aLob\p:hiddenadmin: true
+donation:nametag: false
+aLob\p:timeinserver: true
+aLob\p:electionsvoted: true
+aLob\p:lastdeath: true
+aLob\p:age: true
+aLob\p:restrain: true
+aLob\p:serial: true
+aLob\p:account:character:id: true
+aLob\p:tazed: true
+bleeding: 0
+aLob\p:pd.jailstation: true
+aLob\p:tag: true
+aLob\p:languages.lang2skill: true
+lastvehid: 19
+aLob\p:height: true
+aLob\p:legitnamechange: true
+aLob\p:seatbelt: true
+aLob\p:vct_level: true
+aLob\p:languages.current: true
+aLob\p:account:username: true
+Resource accident was restarted.
+[SCRIPT] Scripter mmm restarted the resource 'accident'.
+
+
+
+
+
+
+
+
+headlightcolors: table: 0AD7F578
+aLob\p:battery: true
+engine: 1
+show_vin: 1
+aLob\p:respawnposition: true
+aLob\p:registered: true
+aLob\p:engine: true
+aLob\p:faction: true
+aLob\p:description:4: true
+aLob\p:token: true
+aLob\p:settings: true
+dimension: 0
+aLob\p:fuel: true
+aLob\p:vehicle:windowstat: true
+odometer: 8467.8178745208
+Impounded: 0
+plate: FD5 1128
+aLob\p:plate: true
+aLob\p:owner: true
+handbrake: 0
+aLob\p:chopped: true
+insurance:faction: 0
+aLob\p:owner_last_login: true
+aLob\p:insurance:fee: true
+job: 0
+aLob\p:interior: true
+faction: -1
+aLob\p:dbid: true
+aLob\p:deleted: true
+description:2: 
+aLob\p:dimension: true
+description:4: 
+aLob\p:description:2: true
+description:1: 
+aLob\p:description:3: true
+aLob\p:vehicle_shop_id: true
+aLob\p:textures: true
+aLob\p:hotwired: true
+aLob\p:Impounded: true
+lastused: 63796081327
+deleted: 0
+vehicle_shop_id: 56
+textures: table: 0AD74848
+aLob\p:insurance:faction: true
+registered: 1
+description:5: 
+battery: 100
+dbid: 19
+aLob\p:headlightcolors: true
+fuel: 97.077745226264
+settings: table: 0AD7ACF8
+aLob\p:enginebroke: true
+aLob\p:description:1: true
+aLob\p:show_vin: true
+chopped: 0
+description:3: 
+aLob\p:odometer: true
+owner: 65
+vehicle:windowstat: 0
+aLob\p:lastused: true
+interior: 0
+insurance:fee: 0
+show_plate: 1
+respawnposition: table: 0AD801A8
+groundoffset: 0.86037737
+enginebroke: 0
+aLob\p:show_plate: true
+aLob\p:description:5: true
+aLob\p:handbrake: true
+aLob\p:job: true
+aLob\p:description:admin: true

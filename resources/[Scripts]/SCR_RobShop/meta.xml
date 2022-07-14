@@ -1,0 +1,5 @@
+<meta>
+	<info author="Kas7" type="script" name="shop-lifting" />
+	<script src="c_shop-lifting.lua" type="client" cache="false" />
+	<script src="s_shop-lifting.lua" type="server" />
+</meta>

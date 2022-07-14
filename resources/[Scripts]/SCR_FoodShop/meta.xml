@@ -1,0 +1,4 @@
+<meta>
+	<script src="food_c.lua" type="client" />
+	<script src="food_s.lua" type="server" />
+</meta>

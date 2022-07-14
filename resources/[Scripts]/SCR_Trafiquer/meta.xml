@@ -1,0 +1,6 @@
+<meta>
+	<info author="Arseni" version="0.9" type="script" description="Trafiquer Fils" />
+	<script src="trafiquer_s.lua" type="server" />
+	<script src="trafiquer_c.lua" type="client" />
+	<file src="hotwire.png" />
+</meta>

@@ -1,0 +1,14 @@
+<meta> 
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	
+    <file src="files/font.ttf"/>
+    <file src="files/info.png"/>
+	<file src="files/error.png"/>
+	
+    <file src="files/info.mp3"/>
+	<file src="files/error.mp3"/>
+	
+	<export function="showBox" type="client"/>
+	<export function="showBoxS" type="server"/>
+</meta>

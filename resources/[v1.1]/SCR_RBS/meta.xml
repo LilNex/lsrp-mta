@@ -1,0 +1,11 @@
+<meta> 
+    <script src="client.lua" type="client" cache ="false" />
+    <script src="server.lua" type="server" cache ="false" />
+    <script src="shared.lua" type="shared" cache ="false" />
+
+    <file src="images/barrier.png" />
+    <file src="images/barrier2.png" />
+    <file src="images/conao.png" />
+    <file src="images/cone.png" />
+    <file src="images/stinger.png" />
+</meta>

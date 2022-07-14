@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (NEIL_SLOT) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2640" scale="1" doublesided="false" collisions="true" posX="2323.1001" posY="-1645.1" posZ="14.7" rotX="0" rotY="0" rotZ="0"></object>
+    <marker id="marker (cylinder) (1)" type="cylinder" color="#0000ffff" size="1" interior="0" dimension="0" alpha="50" posX="2323.1001" posY="-1646.2" posZ="14" rotX="0" rotY="0" rotZ="0"></marker>
+</map>

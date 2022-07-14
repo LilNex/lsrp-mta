@@ -1,0 +1,7 @@
+<meta>
+
+	<script src="fishcard_c.lua" type="client" />
+
+	<script src="fishcard_s.lua" type="server" />	
+
+</meta>

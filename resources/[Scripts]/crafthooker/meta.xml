@@ -1,0 +1,8 @@
+<meta>
+<info author="MrZsemle" name="Discord webhook messages" />
+<script src="webhookS.lua"/>
+
+<export function="sendLSFDDiscord" type="shared" />
+<export function="sendLSPDDiscord" type="shared" />
+<export function="sendLogsDiscord" type="shared" />
+</meta>

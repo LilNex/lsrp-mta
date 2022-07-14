@@ -1,0 +1,37 @@
+<meta>
+
+    <info author="HkHaythem" type="HkScript" description="Content All resources of server" />
+
+	<file src="img/UlogoB.png"/>
+
+	<file src="img/UlogoW.png"/>
+
+	<file src="img/UClogoW.png"/>	
+
+	<file src="img/hk_shape1.png"/>
+
+	<file src="img/hk_shape2.png"/>
+
+	<file src="img/hk_user.png"/>
+
+	<file src="img/hk_pass.png"/>	
+
+	<file src="img/hk_name.png"/>
+
+	<file src="img/hk_age.png"/>
+
+	<file src="img/hk_height.png"/>	
+
+	<file src="img/hk_weight.png"/>	
+
+	<file src="img/hk_bar.png"/>		
+
+	<file src="img/doud.png"/>	
+
+	<file src="img/fish.png"/>
+	
+	<file src="img/card.png"/>	
+
+    <file src="img/hk_font.ttf" />	
+
+</meta>

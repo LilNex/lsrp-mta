@@ -1,0 +1,4 @@
+<meta>
+	<script src="darkc.lua" type="client" />
+	<script src="darks.lua" type="server" />
+</meta>

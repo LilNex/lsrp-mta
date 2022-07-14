@@ -1,0 +1,26 @@
+<meta>
+    <info author="Alern" version="1.0.0" description="Animasyon sistemi" />
+	<file src="anims/parkour.ifp"/>
+	<file src="anims/fizik1.ifp"/>
+	<file src="anims/eren.ifp"/>
+	<file src="anims/beach.ifp"/>
+	<file src="anims/beachh.ifp"/>
+	<file src="anims/merto.ifp"/>
+	<file src="anims/gangs.ifp"/>
+	<file src="anims/otb.ifp"/>
+	<file src="anims/misc.ifp"/>
+	<file src="anims/ghands.ifp"/>
+	<file src="anims/ped.ifp"/>
+	<file src="anims/mert.ifp"/>
+	<file src="anims/deagle.ifp"/>
+	<file src="anims/arena.ifp"/>
+	<file src="anims/eren2.ifp"/>
+	<file src="anims/amcik.ifp"/>
+	<file src="anims/mero.ifp"/>
+	<file src="anims/camera.ifp"/>
+	<file src="anims/swat.ifp"/>
+	<file src="anims/vice.ifp"/>
+    <script src="server.lua" type="server" cache="false"/>
+    <script src="client.lua" type="client" cache="false"/>
+
+</meta>

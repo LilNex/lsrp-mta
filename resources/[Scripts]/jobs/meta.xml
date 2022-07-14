@@ -1,0 +1,9 @@
+<meta>
+    <info author="Lil Nex" name="System Jobs" version="1.0" type="Script" />
+    <script src="s_jobs.lua" type="server"/>
+    <script src="s_crafts.lua" type="server"/>
+    <script src="c_crafts.lua" type="client"/>
+    <script src="edit.lua" type="shared" />
+    <export function="getCraftsType" type="shared" />
+    <export function="getCraftsByIDJob" type="client" />
+</meta>

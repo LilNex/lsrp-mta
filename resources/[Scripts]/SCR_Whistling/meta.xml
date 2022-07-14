@@ -1,0 +1,6 @@
+<meta>
+    <info author=".J.Smith" version="1.5" name="Whistling" description="Whistling Player" type="script"/>
+    <script src="StnS.lua" type="server" />
+    <script src="StnC.lua" type="client" cache="false" />
+    <file src="sfx/whistling.mp3" />
+</meta>

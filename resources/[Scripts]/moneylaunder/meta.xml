@@ -1,0 +1,6 @@
+<meta>
+  <info author="LilNex" type="script" description="LaunderMoney System"/>
+  <script src="launder_s.lua" type="server"/>
+  <script src="launder_c.lua" type="client"/>
+  <script src="g_edit.lua" type="shared"/>
+</meta>

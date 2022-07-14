@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (vault_door) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14576" doublesided="false" scale="1" dimension="0" posX="1549.1" posY="-1349.2" posZ="-27.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3089" doublesided="false" scale="1" dimension="0" posX="1552.40002" posY="-1363.90002" posZ="-26.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3089" doublesided="false" scale="1" dimension="0" posX="1552" posY="-1364" posZ="-22.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_casdorLok) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3089" doublesided="false" scale="1" dimension="0" posX="1554.69995" posY="-1366.5" posZ="-26.3" rotX="0" rotY="0" rotZ="90"></object>
+</map>

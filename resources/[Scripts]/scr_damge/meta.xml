@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client"/>
+    <file src="img/1.png"/>
+    <file src="img/2.png"/>
+    <file src="img/3.png"/>
+    <file src="img/4.png"/>
+    <file src="img/5.png"/>
+    <file src="img/6.png"/>
+    <file src="img/7.png"/>
+    <file src="img/9.png"/>
+    <file src="img/damage.png"/>
+</meta>

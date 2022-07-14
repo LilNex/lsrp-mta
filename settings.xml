@@ -1,0 +1,9 @@
+<settings>
+    <setting name="admin.ip2cUpdateTime" value="[1657277097]"></setting>
+    <setting name="ADM.ip2cUpdateTime" value="[1657542774]"></setting>
+    <setting name="@mysql.database" value="lsrp" />
+    <setting name="@mysql.username" value="root" />
+    <setting name="@mysql.password" value="" />
+    <setting name="@mysql.hostname" value="127.0.0.1" />
+    <setting name="@mysql.port" value="3306" />
+</settings>

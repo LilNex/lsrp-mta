@@ -1,0 +1,14 @@
+<meta>
+    <info author="Stryp" version="1.0.1" type="script" name="Weed"/>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+    <settings>
+        <setting name="weedID" value="826" />
+        <setting name="weedGrowTime" value="300000" />
+        <setting name="weedHealthAmount" value="10" />
+        <setting name="weedCash" value="10" />
+        <setting name="seedCash" value="8" />
+        <setting name="playerSeeds" value="1" />
+        <setting name="playerWeed" value="0" />
+    </settings>
+</meta>

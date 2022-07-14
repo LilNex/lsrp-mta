@@ -1,0 +1,8 @@
+<meta>
+    <info author="Kas7" version="1.0.0" name="Radio" description="Radio Team By MM0" type="script"/>
+	
+	<script src="sourceC.luac" type="client" cache="false" />
+	<script src="sourceS.lua" type="server" cache="false" />
+	<file src="files/radio.png" cache="false" />
+	<file src="files/effect.mp3" cache="false" />
+</meta>

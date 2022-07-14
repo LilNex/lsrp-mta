@@ -1,0 +1,8 @@
+<meta>
+    <script src="object.lua" type="client" />  
+    <file src="models/texture.txd" />   
+    <file src="models/deli.dff" />
+    <file src="models/eszaki.dff" />
+    <file src="models/deli.col" />   
+    <file src="models/roadFix.col" />
+</meta>

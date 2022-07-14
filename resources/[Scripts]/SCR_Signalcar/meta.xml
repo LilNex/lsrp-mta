@@ -1,0 +1,8 @@
+<meta>
+	<info author="Boooom" version="1.0" name="Radar" description="Radar" type="script" />
+	
+	<script src="c_indicators.lua" type="client" />
+	
+	<script src="files.lua" type="client" />
+
+</meta>

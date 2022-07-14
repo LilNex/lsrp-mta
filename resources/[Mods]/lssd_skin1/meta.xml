@@ -1,0 +1,6 @@
+<meta>
+	<info author="tets"type="script" version="1.0.0" />
+	<script type="client"src="replace.lua" />
+	<file src="282.txd" />
+	<file src="282.dff" />
+</meta>

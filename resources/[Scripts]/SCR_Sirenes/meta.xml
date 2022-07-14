@@ -1,0 +1,28 @@
+ <meta>
+    <info author="Varr_" name="Admin car" version="0.1" type="script"/>
+    
+    <script src="shared.lua" type="shared" cache="false"/>
+    <script src="server.lua" type="server"/>
+	<script src="client.lua" type="client" cache="false"/>
+
+	
+	<file src="mods/migalka_1.dff"/>
+	<file src="mods/migalka_1.txd"/>
+	
+	<file src="mods/migalka_2.dff"/>
+	<file src="mods/migalka_2.txd"/>
+	
+	<file src="mods/migalka_3.dff"/>
+	
+	<file src="mods/migalka_4.dff"/>
+	<file src="mods/migalka_4.txd"/>
+	
+	<file src="mods/migalka_5.dff"/>
+	
+
+	
+	<file src="mods/taxi_4.dff"/>
+	<file src="mods/taxi_4.txd"/>
+		
+
+</meta>

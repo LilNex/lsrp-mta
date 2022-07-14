@@ -1,0 +1,11 @@
+<meta>
+    <info author="HkHaythem" type="HkScript" description="Content All resources of server" />
+	<file src="img/logo.png"/>	
+	<file src="img/hk_shape2.png"/>	
+	<file src="img/hk_dbtn.png"/>	
+	<file src="img/hk_rec.png"/>	
+	<file src="img/hk_bar.png"/>	
+	<file src="img/tat.png"/>
+	<file src="img/x.png"/>		
+    <file src="img/hk_font.ttf" />	
+</meta>

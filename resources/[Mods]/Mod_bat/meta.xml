@@ -1,0 +1,6 @@
+<meta>
+	<info author="Mod_bat"type="script" version="1.0.0" />
+	<script type="client"src="replace.lua" />
+	<file src="336.txd" />
+	<file src="336.dff" />
+</meta>

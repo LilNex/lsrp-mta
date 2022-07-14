@@ -1,0 +1,8 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" http="true"/>
+     <export function="sendTweet" type="server" http="true" />
+     <export function="sendTweet" http="true" />
+    <file src="twicon.png"/>
+    <file src="twitpanel.png"/>
+</meta>

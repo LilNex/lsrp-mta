@@ -1,0 +1,12 @@
+<meta>
+    <info author="Lil Nex" name="Meth" version="1.0" type="Script" />
+    <script src="edit.lua" type="shared" />
+
+    <script src="s_main.lua" type="server"/>
+    <script src="s_cook.lua" type="server"/>
+    <script src="s_sell.lua" type="server"/>
+    <script src="c_cook.lua" type="client"/>
+    <script src="c_main.lua" type="client"/>
+    <!-- <export function="getCraftsType" type="shared" />
+    <export function="getCraftsByIDJob" type="client" /> -->
+</meta>

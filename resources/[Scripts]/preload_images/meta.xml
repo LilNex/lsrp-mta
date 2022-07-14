@@ -1,0 +1,25 @@
+<meta>
+    <info author="Khalid" description="" version="1" type="script" name="Download images"/>
+    <download_priority_group>1</download_priority_group>
+    <script src="preload_client.luac" type="client"/>
+    <file src="html/index.html" catch="false" />
+    <file src="html/css/bootstrap.css" catch="false" />
+    <file src="html/css/style.css" catch="false" />
+    <file src="html/css/owl.carousel.css" catch="false" />
+    <file src="html/img/bg-1.jpg" catch="false" />
+    <file src="html/img/bg-2.jpg" catch="false" />
+    <file src="html/img/bg-3.jpg" catch="false" />
+    <file src="html/img/bg-4.jpg" catch="false" />
+	<file src="html/img/bg-5.jpg" catch="false" />
+    <file src="html/img/bg-6.jpg" catch="false" />
+    <file src="html/img/bg-7.jpg" catch="false" />
+    <file src="html/img/bg-8.jpg" catch="false" />
+    <file src="html/img/bg-9.jpg" catch="false" />
+    <file src="html/img/bg-10.jpg" catch="false" />
+    <file src="html/img/loading1.gif" catch="false" />
+    <file src="html/js/jquery.ajaxchimp.js" catch="false" />
+    <file src="html/js/jquery.backstretch.min.js" catch="false" />
+    <file src="html/js/jquery-1.11.0.min.js" catch="false" />
+    <file src="html/js/lj-safety-first.js" catch="false" />
+    <file src="html/js/owl.carousel.min.js" catch="false" />
+</meta>

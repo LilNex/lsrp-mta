@@ -1,0 +1,33 @@
+<meta>
+
+    <info author="Khalid" type="script" description="HkDx Library" />
+
+	
+
+	<script src="variableX.luac" type="client" cache="false" />	
+
+	<script src="variableZ.lua" type="server" cache="false" />	
+
+
+
+	<file src="Bers/font.ttf"/>
+
+
+
+
+
+	
+
+	
+
+	<export function="hkCreateEdit" type="client" />
+
+	<export function="hkSetVisible" type="client" />
+
+	<export function="hkGetEditText" type="client" />
+
+	<export function="hkSetEditText" type="client" />
+
+	<export function="hkSetMasked" type="client" />
+
+</meta>
